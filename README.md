@@ -28,19 +28,19 @@
 * Wall.js -->
 
 ### Existing components
-* Profiles.js
+<!-- * Profiles.js
     * Import Link from react-router-dom
-    * change the `<a>` to be a Link that links to `/profile/ + user.id`
-* Profile.js
-    * Change the hard coded 0 with the value from the parameter id
-* Dashboard.js
-* Marquee
-    * replace the hard coded "hello" with the text parameter from the route
+    * change the `<a>` to be a Link that links to `/profile/ + user.id` -->
+<!-- * Profile.js
+    * Change the hard coded 0 with the value from the parameter id -->
+<!-- * Dashboard.js -->
+<!-- * Marquee
+    * replace the hard coded "hello" with the text parameter from the route -->
 
 ### SideNav
-* Import Link from react-router-dom
+<!-- * Import Link from react-router-dom
 * Create links to all the routes except Profile
 * Hard code some links to Marquee
     * /marquee/iloveroutes
     * /marquee/reactrouterrules
-    * …etc
+    * …etc -->
